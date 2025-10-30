@@ -1,4 +1,4 @@
-# Guide de déploiement de l'application
+## Guide de déploiement de l'application
 
 Ce document explique comment déployer l'application en environnement de production.
 
